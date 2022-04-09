@@ -30,3 +30,29 @@ Following are the dependencies of the project:
 | androidx.lifecycle:lifecycle-livedata-ktx | 2.4.1 |
 | androidx.swiperefreshlayout:swiperefreshlayout | 1.1.0 |
 
+
+<br/>
+
+<h2 id="more-examples">Examples :+1:</h2>
+
+<br/>
+
+**APOD - Calendar**
+
+![alt tag](https://raw.github.com/ShubhamKotnala/Goldman-Test/main/screenshots/calendar_sample.JPG)
+<br/><br/>
+
+**APOD - Delete Favorite Item**
+
+![alt tag](https://raw.github.com/ShubhamKotnala/Goldman-Test/main/screenshots/delete.jpg)
+<br/><br/>
+
+**APOD - Open Favorite List**
+
+![alt tag](https://raw.github.com/ShubhamKotnala/Goldman-Test/main/screenshots/fav_list.jpg)
+<br/><br/>
+
+**APOD - Change Theme**
+
+![alt tag](https://raw.github.com/ShubhamKotnala/Goldman-Test/main/screenshots/theme_saple.jpg)
+<br/><br/>
