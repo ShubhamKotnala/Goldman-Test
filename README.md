@@ -42,6 +42,11 @@ Following are the dependencies of the project:
 ![alt tag](https://raw.github.com/ShubhamKotnala/Goldman-Test/main/screenshots/calendar_sample.JPG)
 <br/><br/>
 
+**APOD - Add to Favorite**
+
+![alt tag](https://raw.github.com/ShubhamKotnala/Goldman-Test/main/screenshots/add_to_fav.jpg)
+<br/><br/>
+
 **APOD - Delete Favorite Item**
 
 ![alt tag](https://raw.github.com/ShubhamKotnala/Goldman-Test/main/screenshots/delete.jpg)
