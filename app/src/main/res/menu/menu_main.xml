@@ -1,0 +1,17 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.goldman.test.ui.home.MainActivity">
+
+    <item
+        android:id="@+id/action_theme"
+        android:title=""
+        app:actionLayout="@layout/day_night_toggle"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/action_favorite"
+        android:icon="@drawable/ic_favorite_list"
+        android:title="favorite"
+        app:showAsAction="always" />
+
+</menu>

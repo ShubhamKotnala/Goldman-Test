@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="select_date_label">Select date to get the Astronomy picture of the day.</string>
+    <string name="no_data_in_your_favorite_list_yet">No data in your favorite list yet! :(</string>
+    <string name="data_deleted">Item deleted successfully</string>
+    <string name="no_connection">No Connection</string>
+</resources>

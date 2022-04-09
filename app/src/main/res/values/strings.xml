@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">APOD</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="details_fragment_label">APOD</string>
+    <string name="fav_label">Favorite List</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="select_date_label">Select date to get the Astronomy picture of the day.</string>
+    <string name="something_went_wrong">Something went wrong</string>
+    <string name="added_to_fav_succes_msg">Added to favorite</string>
+    <string name="no_data_in_your_favorite_list_yet">No data in your favorite list yet! :(</string>
+    <string name="data_deleted">Item deleted successfully</string>
+    <string name="no_connection">No Connection</string>
+    <string name="no_connection_msg">Please connect to internet first!</string>
+</resources>
